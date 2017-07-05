@@ -25,7 +25,7 @@ SECRET_KEY = '#=c&vhgb5-yfc&spp)*$bv8hk$^pq(mw2c)38w)uuby3*9%k&5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://hugopham.pythonanywhere.com/']
 
 
 # Application definition
